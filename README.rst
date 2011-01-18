@@ -1,5 +1,1 @@
-AMS to ical javascript program.  Drag this link to your bookmarks:
-
-.. _AMS to ICAL: javascript:void((function(){j=document.createElement("SCRIPT");j.src="http://code.jquery.com/jquery-latest.pack.js";document.getElementsByTagName("HEAD")[0].appendChild(j);h=document.createElement("SCRIPT");h.src="https://github.com/jasongrout/ams_ical/raw/master/ams_ical.js";document.getElementsByTagName("HEAD")[0].appendChild(h);})())
-
-Then go to, for example the `2011 AMS/MAA Joint Meetings Full Program page <http://www.ams.org/meetings/national/jmm/2125_progfull.html>`_.  Click the bookmark link, select which talks you are interested in, click the "Generate ICS" button in the upper right.  This will create an ICS file at the bottom of the page.  Scroll down to the bottom of the page and copy the text into a file 'schedule.ics'.  Then open the ics file to import it into your calendar. 
+See http://artsci.drake.edu/grout/doku.php/software/home?&#software_i_ve_written (AMS to ical bullet point) for directions.
