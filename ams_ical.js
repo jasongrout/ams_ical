@@ -19,8 +19,8 @@
 
 // To use, just include this file using a <script> tag in the header, after including jquery
 
-// or make a bookmarklet by just changing the following .js file URL
-//javascript:void((function(){j=document.createElement("SCRIPT");j.src="http://code.jquery.com/jquery-latest.pack.js";document.getElementsByTagName("HEAD")[0].appendChild(j);})())
+// or use the following bookmarklet
+//javascript:void((function(){j=document.createElement("SCRIPT");j.src="http://code.jquery.com/jquery-latest.pack.js";document.getElementsByTagName("HEAD")[0].appendChild(j);h=document.createElement("SCRIPT");h.src="https://github.com/jasongrout/ams_ical/raw/master/ams_ical.js";document.getElementsByTagName("HEAD")[0].appendChild(h);})())
 
 
 $(function() {
