@@ -32,6 +32,7 @@ $('input:checkbox').click(
 	    .find('ul>li>input:checkbox')
 	    .click();
     });
+  $('body').prepend('<input type="button" id="generateics" value="Generate ICS"/>');
     }
 );
 
