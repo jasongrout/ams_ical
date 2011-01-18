@@ -25,7 +25,7 @@
 
 $(function() {
     $('ul>li').each(function(index) {$(this).prepend('<input type="checkbox"/>');});
-$('input:checkbox').click(
+    $('input:checkbox').click(
     function() {
 	$(this)
 	    .parent('li')
