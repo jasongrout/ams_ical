@@ -1,7 +1,0 @@
-
-<h1>AMS to ical javascript program</h1>
-
-
-Drag this link to your bookmarks: [[javascript:void((function(){j=document.createElement("SCRIPT");j.src="http://code.jquery.com/jquery-latest.pack.js";document.getElementsByTagName("HEAD")[0].appendChild(j);h=document.createElement("SCRIPT");h.src="https://github.com/jasongrout/ams_ical/raw/master/ams_ical.js";document.getElementsByTagName("HEAD")[0].appendChild(h);})())|Bookmarklet]].  
-
-Then go to, for example the <a href="http://www.ams.org/meetings/national/jmm/2125_progfull.html">AMS/MAA Joint Meetings 2011 Full Program Page</a>.  Click the bookmark that you just made, which will add checkboxes next to each talk and a "Generate ICS" button at the top of the page.  Select the talks you are interested in (if you select a session, it will toggle the selection on each talk in that session).  Then click the "Generate ICS" button in the upper right of the page.  This will create an ICS file at the bottom of the page.  Scroll down to the bottom of the page and copy the text into a file, named something like "schedule.ics".  Then open the ics file to import it into your calendar. 
